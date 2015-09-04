@@ -1,5 +1,4 @@
-var env = require('./test/env.js'),
-    im = require('imagemagick'),
+var im = require('imagemagick'),
     https = require('https');
 
 
