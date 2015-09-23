@@ -4,7 +4,7 @@ Picture localizer helps you to get google maps data from a picture.
 
 ## Usage
 
-```
+``` javascript
 var pctrLclzr = require('picture-localizer');
 
 pctrLclzr.gmapApiKey = 'your_api_key';
